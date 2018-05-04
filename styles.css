@@ -1,0 +1,19 @@
+body {
+  background-color: #2d2d2d;
+  color: white;
+  margin: 5%;
+  line-height: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+li {
+  font-size: 20px;
+}
