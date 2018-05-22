@@ -12,7 +12,8 @@ setInterval(function () {
   updateCountdown()
 }, 1)
 
-Number.prototype.pad = function(size) {
+// pad single digit integers with leading zero
+Number.prototype.pad = function pad(size) {
     var s = String(this);
     while (s.length < (size || 2)) {s = "0" + s;}
     return s;
