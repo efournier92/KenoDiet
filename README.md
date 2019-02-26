@@ -1,4 +1,4 @@
-# ![KenoDiet](https://github.com/efournier92/lecoursville/blob/master/img/logo/KenoDiet_Logo.png?raw=true)
+# ![KenoDiet](https://github.com/efournier92/KenoDiet/blob/master/img/logo/KenoDiet_Logo.png)
 
 ## Contents
 - [Overview](#overview)
