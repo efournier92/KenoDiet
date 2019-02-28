@@ -13,7 +13,7 @@
 - [Features To Do](#features-to-do)
 
 ## Overview
-Tired of hearing friends and co-workers endlessly postulate on the benefits of the Keto diet, I developed this joke site to expound the virtues of simply eating less.
+Tired of hearing friends and co-workers endlessly expound on the benefits of the Keto diet, I developed this joke site to preach the virtues of simply eating less, and looking at photos of Candle.
 
 ## Demo
 [KenoDiet.com](http://www.kenodiet.com/)
@@ -22,7 +22,7 @@ Tired of hearing friends and co-workers endlessly postulate on the benefits of t
 - None, really
 
 ## Development Philosophy
-The key to developing this website was to build it quickly. It doesn't incorporate any framework or libraries, but rather relies solely on plain HTML, CSS, and JavaScript. In total, around 30 minutes of development time went into its creation, testing, and deployment. Since it's a throw-away website, I wanted to focus on comedy, making the color palette as hideous as possible, and the code itself reminiscent of a Web 1.0 site from the mid-1990's.
+The key to developing this website was to build it quickly. It doesn't incorporate any framework or libraries, but rather relies solely on plain HTML, CSS, and JavaScript. In total, around 25 minutes of development time went into its creation, testing, and deployment. Since it's a throw-away website, I wanted to focus on comedy, making the color-palette as hideous as possible, and the styling of a Web 1.0 blog from the late-90's (_that's just a terrible justification for an terrible website_).
 
 ## Stack
 - Plain JavaScript
@@ -46,7 +46,7 @@ This project is provided under the `MIT` licence and I hereby grant rights to us
 - [ ] Make styling less appealing
 - [ ] More photos of Candle
 - [ ] Less photos of me
-- [ ] Troll users incessantly
+- [ ] Troll users harder
 - [ ] Provide less awful diet tips
-- [ ] Tricky Dick Nixon photo montage?
+- [ ] Tricky Dick Nixon photo-montage?
 
