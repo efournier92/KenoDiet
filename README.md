@@ -13,7 +13,7 @@
 - [Features To Do](#features-to-do)
 
 ## Overview
-Tired of listening to trendatarians extol the benefits of the Keto diet in 2018, I developed this joke site to preach the virtues of simply eating less, peeping snaps of Candle, and wasting time.
+In the thick of the 2018 Keto craze, when trendatarians at every table extolled the benefits of not eating carbs, this joke-site was created to preach the virtues of simply eating less, wasting time, and peeping snaps of Candle.
 
 ## Demo
 [KenoDiet.com](http://www.kenodiet.com/)
@@ -37,7 +37,7 @@ Test what?
 If you have feature suggestions, this project doesn't have features. If you'd like to submit a pull request, I'd suggest you use your time on [something more fruitful](https://www.pointerpointer.com/).
 
 ## Licensing
-This project is provided under the [`MIT`](https://opensource.org/licenses/MIT) licence and I hereby grant rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without limitation, provided the resulting software also carries the same open-source licensing statement. That said, I don't recommend you do any such thing; this site is hideous, and the timer function was ganked straight from [StackOverflow](https://stackoverflow.com).
+This project is provided under the [`MIT`](https://opensource.org/licenses/MIT) licence and I hereby grant rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without limitation, provided the resulting software also carries the same open-source licensing statement. That said, I don't recommend you do any such thing; this site is hideous, and the timer function was ganked straight from [StackOverflow](https://stackoverflow.com/questions/16156832/javascript-countdown-to-next-real-5-minutes/16157186#16157186).
 
 ## Features
 - None, really
