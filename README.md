@@ -5,10 +5,10 @@
 - [Demo](#demo)
 - [Development Philosophy](#development-philosophy)
 - [Stack](#stack)
-- [Building](#building)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Licensing](#licensing)
+- [Build](#building)
+- [Test](#testing)
+- [Contribute](#contributing)
+- [License](#licensing)
 - [Features](#features)
 - [Features To Do](#features-to-do)
 
@@ -27,16 +27,16 @@ My goal in developing this site was to get it up as quickly as possible. It does
 - [HTML](https://www.w3schools.com/html/html_intro.asp)
 - [The Almighty Browser](https://en.wikipedia.org/wiki/Web_browser)
 
-## Building
+## Build
 No Need
 
-## Testing
+## Test
 Test what?
 
-## Contributing
+## Contribute
 If you have feature suggestions, this project doesn't have features. If you'd like to submit a pull request, I'd suggest you use your time on [something more fruitful](https://www.pointerpointer.com/).
 
-## Licensing
+## License
 This project is provided under the [`MIT`](https://opensource.org/licenses/MIT) licence and I hereby grant rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without limitation, provided the resulting software also carries the same open-source licensing statement. That said, I don't recommend you do any such thing; this site is hideous, and the timer function was ganked straight from [StackOverflow](https://stackoverflow.com/questions/16156832/javascript-countdown-to-next-real-5-minutes/16157186#16157186).
 
 ## Features
